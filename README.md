@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------
-                           ADDING Full EVPN-BGP fabric Config
+                           Building Full EVPN-BGP fabric Config
 ----------------------------------------------------------------------------------------
 
 Dell OS10 Ansible Environment
