@@ -1,6 +1,6 @@
 ---
 - name: Ansible Playbook -> Dell OS10 PLAY
-  hosts: switches
+  hosts: leafs
   
   #no gather facts -> faster \\ also gathering = explicit set under ansible.cfg
   #gather_facts: no
