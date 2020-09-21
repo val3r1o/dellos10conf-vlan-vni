@@ -1,8 +1,3 @@
 ----------------------------------------------------------------------------------------
-                           Building Full EVPN-BGP fabric Config
+                           Atomic change VLAN-VNI at leaf
 ----------------------------------------------------------------------------------------
-
-Dell OS10 Ansible Environment
-
-This has been tested with Ansible 2.9.13 and Python 3.6.9
-
